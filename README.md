@@ -1,0 +1,1 @@
+This is a Project where I put to use what I've learned until now following The Odin Project course.
